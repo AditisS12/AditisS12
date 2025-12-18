@@ -8,10 +8,14 @@
 Aspiring Data Scientist | Machine Learning & Data Analytics Enthusiast
 </h4>
 
-<img align="right" height="182" src="https://i.pinimg.com/1200x/38/32/c7/3832c7409c97c2fbb8b1641f8907e83c.jpg" />
 
-<h2>👩‍💻 About Me</h2>
+<h2 align="left">About me</h2>
 
+###
+
+<img align="right" height="182" src="https://i.pinimg.com/1200x/38/32/c7/3832c7409c97c2fbb8b1641f8907e83c.jpg"  />
+
+###
 <ul>
   <li>🔭 Currently working on a <a href="https://github.com/AditisS12/Leaf-Detection-System/tree/main">Leaf Detection System</a> using Machine Learning and Computer Vision</li>
   <li>👯 Open to collaborating on Machine Learning & Data Science projects involving real-world datasets</li>
