@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="190" src="https://i.pinimg.com/originals/55/fc/4b/55fc4bee7c31f0850262da53fa1e3180.gif" />
+  <img height="192" src="https://i.pinimg.com/originals/55/fc/4b/55fc4bee7c31f0850262da53fa1e3180.gif" />
 </div>
 
 <h1 align="center">Hii, I'm Aditi Singh</h1>
@@ -8,7 +8,7 @@
 Aspiring Data Scientist | Machine Learning & Data Analytics Enthusiast
 </h4>
 
-<img align="right" height="200" src="https://i.pinimg.com/1200x/38/32/c7/3832c7409c97c2fbb8b1641f8907e83c.jpg" />
+<img align="right" height="182" src="https://i.pinimg.com/1200x/38/32/c7/3832c7409c97c2fbb8b1641f8907e83c.jpg" />
 
 <h2>👩‍💻 About Me</h2>
 
