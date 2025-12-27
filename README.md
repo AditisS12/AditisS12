@@ -55,4 +55,4 @@ Aspiring Data Scientist | Machine Learning & Data Analytics Enthusiast
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AditisS12&show_icons=true&locale=en&layout=compact" alt="AditisS12" />
 </p>
 
-<p>⚡ <b>Fun fact:</b> I enjoy combining Machine Learning with real-world problems like agriculture and healthcare 🌱</p>
+
