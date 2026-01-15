@@ -17,7 +17,7 @@ Aspiring Data Scientist | Machine Learning & Data Analytics Enthusiast
 
 ###
 <ul>
-  <li>🔭 Currently working on a <a href="https://github.com/AditisS12/Leaf-Recognition-System">Leaf Recognition System</a> using Machine Learning and Computer Vision</li>
+  <li>🔭 Currently working on a <a href="https://github.com/AditisS12/Resume-Screening-App/tree/main">Resume Screening App</a> using Machine Learning and Natural Language Processing</li>
   <li>👯 Open to collaborating on Machine Learning & Data Science projects involving real-world datasets</li>
   <li>💬 Ask me about Machine Learning, Computer Vision, Python, and Data Analysis</li>
   <li>👨‍💻 Explore all my projects here: <a href="https://github.com/AditisS12">GitHub Profile</a></li>
